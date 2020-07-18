@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c281a88f2fc2e314c330d6e53586a3f",
+    "revision": "6fc046f5e74baf58c5225e7703634989",
     "url": "/makeYourDrink/index.html"
   },
   {
-    "revision": "c7573a9d6e6e42ad3f15",
+    "revision": "840016d08b1b4c1ec3fd",
     "url": "/makeYourDrink/static/css/main.bf661a1f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makeYourDrink/static/js/2.115fc905.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7573a9d6e6e42ad3f15",
-    "url": "/makeYourDrink/static/js/main.b64c1e2b.chunk.js"
+    "revision": "840016d08b1b4c1ec3fd",
+    "url": "/makeYourDrink/static/js/main.98edadf2.chunk.js"
   },
   {
     "revision": "1af863fc385a1446196a",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/makeYourDrink/static/css/main.bf661a1f.chunk.css",
-    "main.js": "/makeYourDrink/static/js/main.b64c1e2b.chunk.js",
-    "main.js.map": "/makeYourDrink/static/js/main.b64c1e2b.chunk.js.map",
+    "main.js": "/makeYourDrink/static/js/main.98edadf2.chunk.js",
+    "main.js.map": "/makeYourDrink/static/js/main.98edadf2.chunk.js.map",
     "runtime-main.js": "/makeYourDrink/static/js/runtime-main.03f6fe26.js",
     "runtime-main.js.map": "/makeYourDrink/static/js/runtime-main.03f6fe26.js.map",
     "static/js/2.115fc905.chunk.js": "/makeYourDrink/static/js/2.115fc905.chunk.js",
     "static/js/2.115fc905.chunk.js.map": "/makeYourDrink/static/js/2.115fc905.chunk.js.map",
     "index.html": "/makeYourDrink/index.html",
-    "precache-manifest.9db89d1a1faa86c00b642f917c7cf413.js": "/makeYourDrink/precache-manifest.9db89d1a1faa86c00b642f917c7cf413.js",
+    "precache-manifest.c1be6b042865228b5d4ce097c507ccbd.js": "/makeYourDrink/precache-manifest.c1be6b042865228b5d4ce097c507ccbd.js",
     "service-worker.js": "/makeYourDrink/service-worker.js",
     "static/css/main.bf661a1f.chunk.css.map": "/makeYourDrink/static/css/main.bf661a1f.chunk.css.map",
     "static/js/2.115fc905.chunk.js.LICENSE.txt": "/makeYourDrink/static/js/2.115fc905.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.03f6fe26.js",
     "static/js/2.115fc905.chunk.js",
     "static/css/main.bf661a1f.chunk.css",
-    "static/js/main.b64c1e2b.chunk.js"
+    "static/js/main.98edadf2.chunk.js"
   ]
 }
