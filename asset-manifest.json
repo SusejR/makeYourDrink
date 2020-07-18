@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/makeYourDrink/static/css/main.59fb0f1e.chunk.css",
-    "main.js": "/makeYourDrink/static/js/main.b81eb4d8.chunk.js",
-    "main.js.map": "/makeYourDrink/static/js/main.b81eb4d8.chunk.js.map",
+    "main.css": "/makeYourDrink/static/css/main.21f8ebda.chunk.css",
+    "main.js": "/makeYourDrink/static/js/main.3c901f7c.chunk.js",
+    "main.js.map": "/makeYourDrink/static/js/main.3c901f7c.chunk.js.map",
     "runtime-main.js": "/makeYourDrink/static/js/runtime-main.03f6fe26.js",
     "runtime-main.js.map": "/makeYourDrink/static/js/runtime-main.03f6fe26.js.map",
     "static/js/2.115fc905.chunk.js": "/makeYourDrink/static/js/2.115fc905.chunk.js",
     "static/js/2.115fc905.chunk.js.map": "/makeYourDrink/static/js/2.115fc905.chunk.js.map",
     "index.html": "/makeYourDrink/index.html",
-    "precache-manifest.1e98fabec1275f8f563edb73564acf2e.js": "/makeYourDrink/precache-manifest.1e98fabec1275f8f563edb73564acf2e.js",
+    "precache-manifest.6f76b09f2441aa4a583a6df47272f40d.js": "/makeYourDrink/precache-manifest.6f76b09f2441aa4a583a6df47272f40d.js",
     "service-worker.js": "/makeYourDrink/service-worker.js",
-    "static/css/main.59fb0f1e.chunk.css.map": "/makeYourDrink/static/css/main.59fb0f1e.chunk.css.map",
+    "static/css/main.21f8ebda.chunk.css.map": "/makeYourDrink/static/css/main.21f8ebda.chunk.css.map",
     "static/js/2.115fc905.chunk.js.LICENSE.txt": "/makeYourDrink/static/js/2.115fc905.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.03f6fe26.js",
     "static/js/2.115fc905.chunk.js",
-    "static/css/main.59fb0f1e.chunk.css",
-    "static/js/main.b81eb4d8.chunk.js"
+    "static/css/main.21f8ebda.chunk.css",
+    "static/js/main.3c901f7c.chunk.js"
   ]
 }
